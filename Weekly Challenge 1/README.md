@@ -29,4 +29,4 @@ Enter n: 6
 Write any trivia game. Program asks questions, and you select the write answer. At the end, it should tally your score and display it. Have fun and show off your creativity!
 
 ## Done?
-Awesome! Help me make better challenges by filling out the [survey](https://forms.gle/we7apSnSrCm1ByJu9)!
+Awesome! Help me make better challenges by filling out the [survey](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SBneL1UNDdMV1A2RUMwUUFMWkI5NTBaRVJPRFNLOC4u)!
