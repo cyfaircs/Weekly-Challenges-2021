@@ -13,7 +13,7 @@ Given an integer, print all its factors. Assume the number is positive or zero. 
 ### Example Input and Output
 ```
 Enter an integer: 10
-The factors are: 1, 2, and 5
+The factors are: 1, 2, 5, and 10
 ```
 
 ## Is Prime?
