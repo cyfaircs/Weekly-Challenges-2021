@@ -22,11 +22,11 @@ get_month_from_day_of_year(50) = "February"
 ```
 
 ## Tic-Tac-Toe! - Console Application
-This is going to be the start of a multi-part project. Here's the plan:
+This is going to be the start of a multi-part project which will go on for the next month. Here's the plan:
 - [ ] **Console Application**
 - [ ] Discord bot
 - [ ] Window Application 
-Between each stage of the game, we'll also be adding features. The key take away will be learning how to organize projects and code, so that it becomes easy to update all three front ends of the application (console, discord, and window). For this week, your goal will be to make a simple tic-tac-toe console application. You can render the board and handle the input however way you prefer, so bear this in mind as you look at the example. Good luck!
+Between each stage of the game, we'll also be adding features. The key take away will be learning how to organize projects and code, so that it becomes easy to update all three front ends of the application (console, discord, and window). For this week, your goal will be to make a simple tic-tac-toe console application. You can render the board and handle the input however way you prefer, so bear this in mind as you look at the example. Good luck! (Note: I recommend doing this project in Python, since I can support you the most, but if you think you can handle it, then go straight ahead)
 ### Example
 ```
 
@@ -59,3 +59,7 @@ It is O's turn.
 Enter position: 1a
 ...
 ```
+
+## Done?
+Awesome! It'd be helpful if you filled out [the survey here.](https://forms.office.com/Pages/ResponsePage.aspx?id=NWXzMa_R-UeZDzjcBND6RwcRX0nQfSFPh8joKIQNzttUNEJGVkdKR0JUUUs1VklVN1A0Q0NQUDQyTy4u) (Make sure you sign in with your LoneStar account)
+
