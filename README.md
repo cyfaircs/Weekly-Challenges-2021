@@ -10,3 +10,8 @@
 - Sort a List of Numbers
 - Print All Factors
 - Is Prime?
+
+## [Week 3](Weekly%20Challenge%203)
+- Index Before Exceeding Sum
+- Month From Day of Year
+- Tic-Tac-Toe! - Console Application
